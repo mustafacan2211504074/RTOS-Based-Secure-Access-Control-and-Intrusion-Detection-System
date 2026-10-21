@@ -66,7 +66,7 @@ A FreeRTOS queue is used to transfer event codes to the logging task, while a mu
 
 The following image shows the hardware setup of the access control and intrusion detection system.
 
-![Circuit Setup](images/circuit.jp)
+![Circuit Setup](images/circuit.jpg)
 
 ## 🎥 Demo
 
